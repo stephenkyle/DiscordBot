@@ -27,5 +27,3 @@ function getPatch() {
 	})
 }
 
-client.login('Nzk1Njg2MDM0NTc3ODE3NjUw.X_M-XQ.6Jut6LkKaVpAqv_uDJoE8CbAhII');
-
